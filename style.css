@@ -21,7 +21,7 @@ background-color: #dcdcdc;
     width: 95%;
     padding: 20px;
     margin: 5px;
-    display: flex;
+    display: inline-block;
     text-align: center;
     align-items: center;
     border-bottom: #ffffff solid 2px;
