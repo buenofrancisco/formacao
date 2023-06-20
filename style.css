@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+background-color: #dcdcdc;
+}
+.principal{
+    width: 95%;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 2px 4px rgba(rgba(136, 85, 85, 0.356), rgba(59, 107, 59, 0.685), rgba(55, 55, 80, 0.486), alpha);
+
+
+}
+
