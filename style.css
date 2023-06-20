@@ -37,6 +37,17 @@ background-color: #dcdcdc;
 }
 
 .secao1{
-    
+    padding: 20px;
+    font-size: 14pt;
+
+}
+
+.item1{
+    font-style: italic;
+
+}
+.ingrediente li{
+    text-indent: 10px;
+    margin: 30px;
 
 }
